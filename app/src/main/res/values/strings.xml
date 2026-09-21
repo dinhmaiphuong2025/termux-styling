@@ -4,4 +4,10 @@
     <string name="color_prompt">Choose color</string>
     <string name="font_prompt">Choose font</string>
     <string name="writing_failed">Failed to install file:\n\n</string>
+    <string name="import_custom_font">+ Import custom font…</string>
+    <string name="invalid_font_file">Selected file is not a valid TTF or OTF font</string>
+    <string name="font_applied">Font \"%1$s\" applied successfully</string>
+    <string name="delete_custom_font_title">Delete custom font</string>
+    <string name="delete_custom_font_message">Do you want to delete \"%1$s\"?</string>
+    <string name="font_deleted">Font deleted</string>
 </resources>
